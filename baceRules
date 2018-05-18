@@ -25,7 +25,7 @@ All rule changes proposed in the proper way shall be voted on. They will be adop
 Every player is an eligible voter. Every eligible voter must participate in every vote on rule changes.
 
 106
-Any proposed rule change must be posted in the correct channel before it is voted on. If adopted, it must guide play in the form in which it was voted on.
+Any proposed rule change must be posted in the appropriate channel before it is voted on. If adopted, it must guide play in the form in which it was voted on.
 
 107
 No rule change may take effect earlier than the moment of the completion of the vote that adopted it, even if its wording explicitly states otherwise. No rule change may have retroactive application.
@@ -96,7 +96,7 @@ Each player has exactly one vote.
 The winner is the first person to achieve 100 (positive) points.
 
 209
-At no time may there be more than 25 mutable rules.
+At no time may there be more than 30 mutable rules.
 
 210
 Players may not conspire or consult on the making of future rule changes unless they are teammates.
@@ -133,11 +133,11 @@ Turns can not leave mainaince unless there are three or more players
 Aproprate channels are created as their respective rules are passed
 
 218
-Rules must be proplesed in the aproprate channel.
+Rules must be proplesed in the appropriate channel.
 
 219
 A fail vote is placed by reacting with :x:
 A pass vote is placed by reacting with :white_check_mark:
 
 220
-Points are kept track of in the aprorate channel.
+Points are kept track of in the appropriate channel.
