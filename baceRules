@@ -120,24 +120,24 @@ This rule takes precedence over every other rule determining the winner.
 214
 Players are players if they have an interger role.
 
-214
+215
 Players are assigned the next available integer as a role upon becoming a player.
 
-215 
+216 
 Players become players during mainence upon requrest.
 
-216
+217
 Turns can not leave mainaince unless there are three or more players
 
-217
+218
 Aproprate channels are created as their respective rules are passed
 
-218
+219
 Rules must be proplesed in the appropriate channel.
 
-219
+220
 A fail vote is placed by reacting with :x:
 A pass vote is placed by reacting with :white_check_mark:
 
-220
+221
 Points are kept track of in the appropriate channel.
